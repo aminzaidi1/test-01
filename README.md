@@ -2,9 +2,7 @@
 
 ## Objective
 
-The objective of this assignment is to explore and use pre-trained machine learning models in both Azure and Google Cloud Platform (GCP). Through this, we aim to gain experience with cloud-based tools, particularly in the domains of speech and vision processing.
-
-
+This assignment's goal is to investigate and use pre-trained machine learning models on Google Cloud Platform (GCP) and Azure. We hope to learn more about cloud-based tools through this, especially in the areas of voice and visual processing.
 
 ## 1. Work with Pre-trained Speech Models
 
@@ -12,13 +10,13 @@ The objective of this assignment is to explore and use pre-trained machine learn
 
 1.  **Accessing Vertex AI Notebooks**
     
-    -   Logged into GCP and accessed Vertex AI Notebooks.
-    -   Set up a pre-configured notebook specifically for interacting with the GCP Speech-to-Text API.
+    -   Logged into GCP and accessed Vertex AI Studio.
+    -   Set up a pre-configured notebook specifically for interacting with the GCP Speech-to-Text.
         
 2.  **Transcribing an Audio File**
     
     -   Uploaded a sample audio file for testing.
-    -   Used the Speech-to-Text API to perform transcription and documented the process and results.
+    -   Used the Speech-to-Text to perform transcription and documented the process and results.
     ![GCP-speech](images/gcp-speech.png)
 
 ### Azure Speech-to-Text
@@ -52,14 +50,13 @@ The objective of this assignment is to explore and use pre-trained machine learn
    
 ![GCP-code](images/gcp-code.png)    
     **Analysis of Results**  
-    _The model accurately detected objects in the image, showing high precision for recognized items. However, there were some limitations in recognizing smaller or partially obscured items. Overall, the API provided consistent results for clear and high-resolution images._
+    _The model demonstrated a high degree of precision when identifying things in the image. The ability to identify tiny or partially veiled objects was limited, too. All things considered, the API consistently produced crisp, high-resolution photos._
     
 
 
 ### Azure AI Vision
 
 1.  **Accessing Azure Machine Learning Notebooks**
-    
     -   Logged into Azure and accessed Azure Machine Learning (AML) Notebooks.
     -   Set up a notebook to work with Azure’s pre-trained vision models.
 2.  **Using Pre-trained Vision Model**
@@ -70,23 +67,23 @@ The objective of this assignment is to explore and use pre-trained machine learn
 ![azure-code](images/azure-vision.png)    
     
    **Analysis of Results**  
-    _Azure AI Vision demonstrated similar detection capabilities as the GCP Vision API. However, Azure’s model showed slightly different accuracy in certain scenarios, such as recognizing partially obscured items. Both models were effective for clear images, though Azure's model handled shadowed regions with more sensitivity._
+    _The detection skills of the GCP Vision API and Azure AI Vision were comparable. However, in some situations, such identifying partially veiled objects, Azure's model demonstrated somewhat different accuracy. For clear photographs, both models worked well, although Azure's model was more sensitive to shadowy areas._
     
 
 ## Comparison and Reflection
 
--   **Speech Models**: Both Azure and GCP speech models performed transcription with high accuracy and processed audio files efficiently.
--   **Vision Models**: GCP and Azure vision models displayed comparable accuracy, with Azure having a slight edge in handling certain challenging conditions, such as shadowed regions or low contrast.
+-   **Speech Models**: The speech models from Azure and GCP handled audio files effectively and completed transcriptions with high accuracy.
+-   **Vision Models**: The accuracy of the GCP and Azure vision models was similar, with Azure's model handling some difficult situations (such low contrast or shaded areas) a little better.
 
 ### Reflections on Ease of Use
 
--   **GCP**: The interface for the Vertex AI Notebooks is straightforward, and both Speech and Vision APIs integrate seamlessly. The initial setup was smooth, though enabling certain APIs required additional permissions.
--   **Azure**: The AML Notebooks are also user-friendly, though setting up a new instance required more steps than GCP. Azure’s documentation on using pre-trained models is comprehensive, aiding in the workflow.
+-   **GCP**: The Vertex AI Notebooks have an easy-to-use UI, and the Speech and Vision APIs work together flawlessly. The first setup went smoothly, however extra permissions were needed to enable several APIs.
+-   **Azure**: Although there are more steps involved in starting up a new instance than with GCP, the AML Notebooks are equally easy to utilize. Azure provides thorough instructions on how to use pre-trained models, which facilitates workflow.
 
 ### Challenges and Resolutions
 
--   **Enabling APIs**: In GCP, enabling the Vision API took additional time due to permission requirements. Ensuring proper billing was activated resolved access issues.
--   **Object Detection Consistency**: Both platforms occasionally struggled with recognizing obscured or shadowed objects. Adjusting image quality (resolution, lighting) before upload improved detection consistency.
+-   **Enabling APIs**: Because of authorization constraints, it took longer to enable the Vision API in GCP. Access problems were fixed by making sure the correct billing was enabled.
+-   **Object Detection Consistency**: On occasion, both platforms had trouble identifying items that were shadowed or occluded. The consistency of detection was increased by adjusting the image quality (lighting, resolution) prior to upload.
 
 ----------
 
