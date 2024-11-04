@@ -19,7 +19,7 @@ The objective of this assignment is to explore and use pre-trained machine learn
     
     -   Uploaded a sample audio file for testing.
     -   Used the Speech-to-Text API to perform transcription and documented the process and results.
-    ![GCP-speech](images/gcp-speech)
+    ![GCP-speech](images/gcp-speech.png)
 
 ### Azure Speech-to-Text
 
