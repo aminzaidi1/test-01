@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-serverless-assignment",
+  "private_key_id": "10379783430a6f417557d84f316dcd383cd8f588",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdAN5Jg1FO+v5v\ngTEFhtkdI2ES10L/+cjxZ+ReoXdBst7/dMH0rnm6k+IDPzbXU0fMH7DXNx5UKKWd\nsARuN//svDH+DT0OARjwiVKO6bRrjsQJ8LjMzfIzk0k1CBwczq78odSyt2cxSZEL\nVjvte2VS2uEs9xFgX4Z2l/tg3t8XhucyuKPkFljEgTsOd7Lgld/xB9QSk50J4Jho\nRUZV1FnM2+VSaiubH2RaqYexIbJI8UqmoLhe+GAsw1qLF/PTHP93jJkNk4qBPK+O\njPUHB5XLJtTdG/96TzpbqhC//aqMkeSuFwGr7alI78wG4eLQXSZNipNPNYlhP/ND\nhJBURXiBAgMBAAECggEAIxe1F7he3ajzYwf85Y/ZCo7EXVo5Ew8JT5AZtt8fUVOC\nTZYS3jZ7Ze01COXBw8pNE36H3+rlgAkfz4muy9X/gbIk+HSMD4vGP8lp5yCsn5fn\nEJO6MqjbuJR0ugJIilXWPgiMCrA8xAL+BQsu1OuOX8ElsI++1gwz+WEKIoJeWhsG\n8fH3ogFw9a5hsZDp0o47ZC6Qsd/6SxzY4AhgRQ4YlUwv1ohn5+Tzt8dwNSmsteSK\nCaWS9MDoGzyaf1TXoD4uvTGBGeObLMINd9BTaNT7tZ0AUaKJeYDzKQg12ImZ7sAy\nq0rzEzrDTA8q/wmFIngIGreX3vgvTQCExn3hdhxhCwKBgQDASw6PAqVQ92229epT\nv+sQqSuLvmfxcFy/FlHMQpdp6huTaK/lvZhFcx5jHFLXrZbfy5FVTL+lRe1zmYoo\nhdjBfq32eCVTvtAcTmdBhbfc+dzBZIbw6q5JoTZRwfrQw8qMZ+FQK1QJXUsgAmTN\nvMgNv1Upfc9RQGEJEKLoQ72U4wKBgQDRBMf/23Ri8i5ToGkII/FsVP6d3fekB+jh\nBT5iHdJ8tfR+Jm+HP00E55NkUuzCBoEMvAL+nL/A63RPnBAq00BK80ybjSkhIFZS\n9T93R4c7/f1iCqaZ3y5+oGf4IFXWQbYvQf7zld8XkwfkXa2Voa2sxoWwTp2AHkmV\nrMrruUreSwKBgBZy7MEvWuNn72wTq4aZejTYuxe2Y+Yg6wL39Ra2k3yu8wczio10\no+k/tkV10goR3vJDjrT5n8oIrt73BtUSQyrbwi1q+1iahys20AErPjrTBL2jIcnQ\nbAZ2hqPm1IQ4x1W67ufwFwB83r9e6CvIpUZNlwCgCmr+7BUl1w7skZ5nAoGAEyiE\nCHCeB1+5XVLrraJVw586w0+QHknXT6DCag3fuCyZX2K4gEYOEjADs4NiThp4g6lM\nAPhvHwi13YIpfTNlxjjswak7ptym7O2rxowY2ifarLzbLmllgpfDT9vu4jedslEz\nRDJtg2SnqYfonDl4iMidgl6CUzbzebOf2eFe+mcCgYEAnDBkDCNBf0R6WiIyDxs/\nAzrRgvTJOxl+mpSvO1Sm4eqXyS4LW3Wa09iXYJJhxBBf2vHAbbUE98rtHUhsGpsC\nDTjyLY/G8OZHY4wNNFaN8k+AEvNDCi5yt4i37BBE2skbVJVQi2IdB7Zqu1ulQtm4\nOiKI63XLTWMooUb9q6sIDXw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-serverless-assignment@appspot.gserviceaccount.com",
+  "client_id": "113549369746332875921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-serverless-assignment%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

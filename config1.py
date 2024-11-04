@@ -1,0 +1,2 @@
+AZURE_SUBSCRIPTION_KEY = '58pSHDqUsGPcc538CrZU5nqloYLDasa6hnq9NT3abyBACVx2XONHJQQJ99AKACYeBjFXJ3w3AAAFACOGoASH' 
+AZURE_ENDPOINT = 'https://cv-workhha.cognitiveservices.azure.com/'
